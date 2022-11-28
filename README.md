@@ -1,16 +1,17 @@
-# guess_number
+# Guess the number
 
-Guess the number.
+Guess the number game.
 
-## Getting Started
+## Screenshots from the app
 
-This project is a starting point for a Flutter application.
+#### Landing page
+![Landing page](resources/landing_page.png)
 
-A few resources to get you started if this is your first Flutter project:
+#### Number is lower
+![Number is lower](resources/lower_number.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#### Number is higher
+![Number is higher](resources/higher_number.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Number was guessed
+![Number was guessed](resources/guessed_number.png)
